@@ -33,7 +33,7 @@ body{
     }
 
     .layers{
-        perspective: 1800px;
+        perspective: 2000px;
         overflow: hidden;
 
         &__content{
@@ -48,7 +48,7 @@ body{
                 transform: translateZ(-55px) scale(1.06);
             }
             .layer-2{
-                transform: translateZ(80px) scale(.95);
+                transform: translateZ(80px) scale(1);
             }
             .layer-3{
                 transform: translateZ(180px) scale(.8);

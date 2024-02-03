@@ -34,7 +34,7 @@ body .logo {
   z-index: 1;
 }
 body .layers {
-  perspective: 1800px;
+  perspective: 2000px;
   overflow: hidden;
 }
 body .layers__content {
@@ -49,7 +49,7 @@ body .layers__content .layer-1 {
   transform: translateZ(-55px) scale(1.06);
 }
 body .layers__content .layer-2 {
-  transform: translateZ(80px) scale(0.95);
+  transform: translateZ(80px) scale(1);
 }
 body .layers__content .layer-3 {
   transform: translateZ(180px) scale(0.8);
