@@ -34,6 +34,7 @@ body{
 
     .layers{
         perspective: 1800px;
+        overflow: hidden;
 
         &__content{
             height: 100vh;

@@ -35,6 +35,7 @@ body .logo {
 }
 body .layers {
   perspective: 1800px;
+  overflow: hidden;
 }
 body .layers__content {
   height: 100vh;
